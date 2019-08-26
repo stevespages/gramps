@@ -1,0 +1,78 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 4.2.8
+2 NAME Gramps
+1 DATE 26 AUG 2019
+2 TIME 22:10:56
+1 SUBM @SUBM@
+1 FILE /home/steve/Desktop/gramps/backup.ged
+1 COPR Copyright (c) 2019 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+1 ADDR
+0 @I0000@ INDI
+1 NAME Stephen Richard /Greig/
+2 GIVN Stephen Richard
+2 SURN Greig
+2 NPFX Mr
+1 SEX M
+1 FAMC @F0000@
+1 SOUR @S0000@
+2 QUAY 3
+1 OBJE
+2 FORM jpeg
+2 TITL 20181205_154519
+2 FILE /home/steve/Desktop/20181205_154519.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 20:59:26
+0 @I0001@ INDI
+1 NAME Philip Guy Morland /Greig/
+2 GIVN Philip Guy Morland
+2 SURN Greig
+2 NPFX Lieutenant Commander
+1 SEX M
+1 BIRT
+2 DATE 19 JAN 1927
+1 FAMS @F0000@
+1 OBJE
+2 FORM jpeg
+2 TITL index-portrait-photo
+2 FILE /home/steve/Desktop/gramps/media/index-portrait-photo.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 18:58:25
+0 @I0002@ INDI
+1 NAME Susan /Greig/
+2 TYPE married
+2 GIVN Susan
+2 SURN Greig
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0000@
+1 OBJE
+2 FORM jpeg
+2 TITL 20170414_104520
+2 FILE /home/steve/Desktop/gramps/media/20170414_104520.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 18:21:22
+0 @F0000@ FAM
+1 HUSB @I0001@
+1 WIFE @I0002@
+1 CHIL @I0000@
+1 CHAN
+2 DATE 25 AUG 2019
+3 TIME 22:27:19
+0 @S0000@ SOUR
+1 TITL Interview with Stephen Richard Greig
+1 AUTH Stephen Richard Greig
+1 CHAN
+2 DATE 24 AUG 2019
+3 TIME 20:33:13
+0 TRLR
