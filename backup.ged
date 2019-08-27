@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 4.2.8
 2 NAME Gramps
-1 DATE 26 AUG 2019
-2 TIME 22:10:56
+1 DATE 27 AUG 2019
+2 TIME 02:03:38
 1 SUBM @SUBM@
 1 FILE /home/steve/Desktop/gramps/backup.ged
 1 COPR Copyright (c) 2019 .
@@ -21,16 +21,19 @@
 2 SURN Greig
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 DATE 24 JUN 1959
+2 PLAC Devonia Guest House, Yelverton, Devon, UK
 1 FAMC @F0000@
 1 SOUR @S0000@
 2 QUAY 3
 1 OBJE
 2 FORM jpeg
 2 TITL 20181205_154519
-2 FILE /home/steve/Desktop/20181205_154519.jpg
+2 FILE /home/steve/Desktop/gramps/media/20181205_154519.jpg
 1 CHAN
 2 DATE 26 AUG 2019
-3 TIME 20:59:26
+3 TIME 23:05:08
 0 @I0001@ INDI
 1 NAME Philip Guy Morland /Greig/
 2 GIVN Philip Guy Morland
@@ -39,14 +42,19 @@
 1 SEX M
 1 BIRT
 2 DATE 19 JAN 1927
+1 FAMC @F0004@
 1 FAMS @F0000@
 1 OBJE
 2 FORM jpeg
 2 TITL index-portrait-photo
 2 FILE /home/steve/Desktop/gramps/media/index-portrait-photo.jpg
+1 OBJE
+2 FORM URL
+2 TITL Philip Greig's Diary as a Midshipman during the Second World War
+2 FILE www.stevespages.org.uk/pgm-greig
 1 CHAN
-2 DATE 26 AUG 2019
-3 TIME 18:58:25
+2 DATE 27 AUG 2019
+3 TIME 00:29:40
 0 @I0002@ INDI
 1 NAME Susan /Greig/
 2 TYPE married
@@ -62,17 +70,250 @@
 1 CHAN
 2 DATE 26 AUG 2019
 3 TIME 18:21:22
+0 @I0003@ INDI
+1 NAME Charlotte /Williams/
+2 TYPE married
+2 GIVN Charlotte
+2 SURN Williams
+1 SEX F
+1 FAMC @F0000@
+1 OBJE
+2 FORM jpeg
+2 TITL 20170724_185229_001
+2 FILE /home/steve/Desktop/gramps/media/20170724_185229_001.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:10:45
+0 @I0004@ INDI
+1 NAME Victoria /Greig/
+2 GIVN Victoria
+2 SURN Greig
+2 NPFX Ms
+1 SEX F
+1 FAMC @F0000@
+1 FAMS @F0001@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:24:55
+0 @I0005@ INDI
+1 NAME William Robert /Greig/
+2 GIVN William Robert
+2 SURN Greig
+1 SEX M
+1 FAMC @F0000@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:05:08
+0 @I0006@ INDI
+1 NAME Gregory /Cox/
+2 GIVN Gregory
+2 SURN Cox
+1 SEX M
+1 FAMS @F0001@
+1 OBJE
+2 FORM jpeg
+2 TITL 20180224_145900
+2 FILE /home/steve/Desktop/gramps/media/20180224_145900.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:35:17
+0 @I0007@ INDI
+1 NAME Georgina /Cox/
+2 TYPE married
+2 GIVN Georgina
+2 SURN Cox
+1 SEX F
+1 FAMC @F0001@
+1 FAMS @F0002@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @I0008@ INDI
+1 NAME Annabelle /Cox/
+2 GIVN Annabelle
+2 SURN Cox
+1 SEX F
+1 FAMC @F0001@
+1 FAMS @F0003@
+1 OBJE
+2 FORM jpeg
+2 TITL 20171207_180427
+2 FILE /home/steve/Desktop/gramps/media/20171207_180427.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @I0009@ INDI
+1 NAME Eleanor /Cox/
+2 GIVN Eleanor
+2 SURN Cox
+1 SEX F
+1 FAMC @F0001@
+1 OBJE
+2 FORM jpeg
+2 TITL 20180224_145900
+2 FILE /home/steve/Desktop/gramps/media/20180224_145900.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:37:10
+0 @I0010@ INDI
+1 NAME Nick /Jones/
+2 GIVN Nick
+2 SURN Jones
+1 SEX M
+1 FAMS @F0003@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @I0011@ INDI
+1 NAME Cleo /Jones/
+2 GIVN Cleo
+2 SURN Jones
+1 SEX F
+1 FAMC @F0003@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190426_082625
+2 FILE /home/steve/Desktop/gramps/media/20190426_082625.jpeg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @I0012@ INDI
+1 NAME Matt /McArdle/
+2 GIVN Matt
+2 SURN McArdle
+1 SEX M
+1 FAMS @F0002@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190512_184822
+2 FILE /home/steve/Desktop/gramps/media/20190512_184822.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @I0013@ INDI
+1 NAME Lillie /McArdle/
+2 GIVN Lillie
+2 SURN McArdle
+1 SEX F
+1 FAMC @F0002@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190512_183439
+2 FILE /home/steve/Desktop/gramps/media/20190512_183439.jpg
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @I0014@ INDI
+1 NAME Philip Humphreys /Greig/
+2 GIVN Philip Humphreys
+2 SURN Greig
+1 SEX M
+1 EVEN
+2 TYPE Life Saved By Cigarette Case
+2 DATE 1 NOV 1915
+2 PLAC Egypt, Palestine
+2 SOUR @S0001@
+3 OBJE
+4 FORM application/pdf
+4 TITL philip-humphreys-greig-roll-of-honor
+4 FILE /home/steve/Desktop/gramps/media/philip-humphreys-greig-roll-of-honor.pdf
+1 FAMS @F0004@
+1 OBJE
+2 FORM jpeg
+2 TITL 20170414_103933
+2 FILE /home/steve/Desktop/gramps/media/20170414_103933.jpg
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 01:26:09
+0 @I0015@ INDI
+1 NAME Sylvia /Greig/
+2 TYPE married
+2 GIVN Sylvia
+2 SURN Greig
+1 SEX F
+1 FAMS @F0004@
+1 OBJE
+2 FORM jpeg
+2 TITL 20171202_161518
+2 FILE /home/steve/Desktop/gramps/media/20171202_161518.jpg
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 00:12:02
+0 @I0016@ INDI
+1 NAME Jasmine /Morris/
+2 TYPE married
+2 GIVN Jasmine
+2 SURN Morris
+1 SEX F
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 00:13:42
+0 @I0017@ INDI
+1 NAME Phillida /Viest/
+2 TYPE married
+2 GIVN Phillida
+2 SURN Viest
+1 SEX F
+1 OBJE
+2 FORM jpeg
+2 TITL 20170414_104208
+2 FILE /home/steve/Desktop/gramps/media/20170414_104208.jpg
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 00:17:38
 0 @F0000@ FAM
 1 HUSB @I0001@
 1 WIFE @I0002@
 1 CHIL @I0000@
+1 CHIL @I0003@
+1 CHIL @I0004@
+1 CHIL @I0005@
 1 CHAN
-2 DATE 25 AUG 2019
-3 TIME 22:27:19
+2 DATE 26 AUG 2019
+3 TIME 23:05:08
+0 @F0001@ FAM
+1 HUSB @I0006@
+1 WIFE @I0004@
+1 CHIL @I0007@
+1 CHIL @I0008@
+1 CHIL @I0009@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:37:10
+0 @F0002@ FAM
+1 HUSB @I0012@
+1 WIFE @I0007@
+1 CHIL @I0013@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:57:42
+0 @F0003@ FAM
+1 HUSB @I0010@
+1 WIFE @I0008@
+1 CHIL @I0011@
+1 CHAN
+2 DATE 26 AUG 2019
+3 TIME 23:58:37
+0 @F0004@ FAM
+1 HUSB @I0014@
+1 WIFE @I0015@
+1 CHIL @I0001@
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 00:12:02
 0 @S0000@ SOUR
 1 TITL Interview with Stephen Richard Greig
 1 AUTH Stephen Richard Greig
 1 CHAN
 2 DATE 24 AUG 2019
 3 TIME 20:33:13
+0 @S0001@ SOUR
+1 TITL Roll of Honour Pembroke College, Oxford
+1 OBJE
+2 FORM application/pdf
+2 TITL philip-humphreys-greig-roll-of-honor
+2 FILE /home/steve/Desktop/gramps/media/philip-humphreys-greig-roll-of-honor.pdf
+1 CHAN
+2 DATE 27 AUG 2019
+3 TIME 01:15:49
 0 TRLR
