@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 4.2.8
 2 NAME Gramps
-1 DATE 29 AUG 2019
-2 TIME 01:06:03
+1 DATE 1 SEP 2019
+2 TIME 00:49:21
 1 SUBM @SUBM@
 1 FILE /home/steve/Desktop/gramps/backup.ged
 1 COPR Copyright (c) 2019 .
@@ -86,11 +86,15 @@
 1 FAMS @F0008@
 1 OBJE
 2 FORM jpeg
+2 TITL charlotte-greig
+2 FILE /home/steve/Desktop/gramps/media/charlotte-greig.jpeg
+1 OBJE
+2 FORM jpeg
 2 TITL 20170724_185229_001
 2 FILE /home/steve/Desktop/gramps/media/20170724_185229_001.jpg
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 13:25:38
+2 DATE 31 AUG 2019
+3 TIME 11:12:12
 0 @I0004@ INDI
 1 NAME Victoria /Greig/
 2 GIVN Victoria
@@ -108,9 +112,14 @@
 2 SURN Greig
 1 SEX M
 1 FAMC @F0000@
+1 FAMS @F0021@
+1 OBJE
+2 FORM jpeg
+2 TITL william-greig
+2 FILE /home/steve/Desktop/gramps/media/william-greig.JPG
 1 CHAN
-2 DATE 26 AUG 2019
-3 TIME 23:05:08
+2 DATE 30 AUG 2019
+3 TIME 22:26:20
 0 @I0006@ INDI
 1 NAME Gregory /Cox/
 2 GIVN Gregory
@@ -255,11 +264,15 @@
 1 FAMS @F0004@
 1 OBJE
 2 FORM jpeg
+2 TITL 20190831_110111-sylvia-greig
+2 FILE /home/steve/Desktop/gramps/media/20190831_110111-sylvia-greig.jpg
+1 OBJE
+2 FORM jpeg
 2 TITL 20171202_161518
 2 FILE /home/steve/Desktop/gramps/media/20171202_161518.jpg
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 23:10:20
+2 DATE 1 SEP 2019
+3 TIME 00:01:15
 0 @I0016@ INDI
 1 NAME Jasmine /Morris/
 2 TYPE married
@@ -407,9 +420,13 @@
 2 FORM jpeg
 2 TITL 20190827_224005
 2 FILE /home/steve/Desktop/gramps/media/20190827_224005.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_175723
+2 FILE /home/steve/Desktop/gramps/media/20190831_175723.jpg
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 23:42:31
+2 DATE 31 AUG 2019
+3 TIME 18:12:58
 0 @I0031@ INDI
 1 NAME Kate /Greig/
 2 TYPE married
@@ -439,9 +456,10 @@
 2 SURN Greig
 1 SEX M
 1 FAMC @F0009@
+1 FAMS @F0025@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 13:31:58
+2 DATE 31 AUG 2019
+3 TIME 21:57:50
 0 @I0034@ INDI
 1 NAME Kenneth /Greig/
 2 GIVN Kenneth
@@ -452,18 +470,21 @@
 2 FORM jpeg
 2 TITL 20190827_224054
 2 FILE /home/steve/Desktop/gramps/media/20190827_224054.jpg
+1 NOTE @N0022@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 22:17:08
+2 DATE 31 AUG 2019
+3 TIME 22:03:45
 0 @I0035@ INDI
 1 NAME Dick /Greig/
 2 GIVN Dick
 2 SURN Greig
 1 SEX M
 1 FAMC @F0009@
+1 FAMS @F0023@
+1 NOTE @N0023@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 13:31:58
+2 DATE 31 AUG 2019
+3 TIME 22:13:41
 0 @I0036@ INDI
 1 NAME Sidney Herbert /Baker/
 2 GIVN Sidney Herbert
@@ -514,11 +535,15 @@
 2 GIVN Harold Owen
 2 SURN Stutchbury
 1 SEX M
-1 FAMC @F0014@
+1 FAMC @F0029@
 1 FAMS @F0011@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_105223
+2 FILE /home/steve/Desktop/gramps/media/20190831_105223.jpg
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:33:28
+2 DATE 1 SEP 2019
+3 TIME 00:22:36
 0 @I0039@ INDI
 1 NAME Joan Margaret /Stutchbury/
 2 TYPE married
@@ -527,9 +552,13 @@
 1 SEX F
 1 FAMC @F0013@
 1 FAMS @F0011@
+1 OBJE
+2 FORM jpeg
+2 TITL 20190831_110111-joan-stutchbury
+2 FILE /home/steve/Desktop/gramps/media/20190831_110111-joan-stutchbury.jpg
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:17:16
+2 DATE 1 SEP 2019
+3 TIME 00:04:31
 0 @I0040@ INDI
 1 NAME John Peter /Hudson/
 2 GIVN John Peter
@@ -631,9 +660,10 @@
 2 SURN Hudson
 1 SEX M
 1 FAMC @F0013@
+1 FAMS @F0026@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:17:16
+2 DATE 31 AUG 2019
+3 TIME 22:17:17
 0 @I0051@ INDI
 1 NAME Judith /Hudson/
 2 GIVN Judith
@@ -682,17 +712,6 @@
 1 CHAN
 2 DATE 28 AUG 2019
 3 TIME 15:17:16
-0 @I0056@ INDI
-1 NAME George Frederick /Stutchbury/
-2 GIVN George Frederick
-2 SURN Stutchbury
-1 SEX M
-1 FAMC @F0016@
-1 FAMS @F0014@
-1 NOTE @N0005@
-1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:34:20
 0 @I0057@ INDI
 1 NAME  //
 1 SEX F
@@ -706,22 +725,20 @@
 2 GIVN Hugh
 2 SURN Stutchbury
 1 SEX M
-1 FAMC @F0014@
 1 FAMS @F0015@
 1 NOTE @N0007@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:33:28
+2 DATE 1 SEP 2019
+3 TIME 00:22:36
 0 @I0059@ INDI
 1 NAME Lucy /Stutchbury/
 2 GIVN Lucy
 2 SURN Stutchbury
 1 SEX F
-1 FAMC @F0014@
 1 NOTE @N0008@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:33:28
+2 DATE 1 SEP 2019
+3 TIME 00:22:36
 0 @I0060@ INDI
 1 NAME Vivian //
 2 GIVN Vivian
@@ -760,31 +777,22 @@
 1 CHAN
 2 DATE 28 AUG 2019
 3 TIME 15:28:54
-0 @I0064@ INDI
-1 NAME Olive /Stutchbury/
-2 TYPE married
-2 GIVN Olive
-2 SURN Stutchbury
-1 SEX F
-1 FAMS @F0014@
-1 NOTE @N0012@
-1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:33:28
 0 @I0065@ INDI
 1 NAME Helen Gertrude /Baker/
 2 TYPE married
 2 GIVN Helen Gertrude
 2 SURN Baker
+2 NICK Nellie
 1 SEX F
 1 BIRT
 2 DATE ABT 1868
 2 PLAC Cheltenham, Gloucestershire
 2 SOUR @S0002@
+1 FAMC @F0022@
 1 FAMS @F0010@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 23:10:20
+2 DATE 31 AUG 2019
+3 TIME 18:50:51
 0 @I0066@ INDI
 1 NAME Phyllis Yvonne Marion /Baker/
 2 GIVN Phyllis Yvonne Marion
@@ -915,6 +923,233 @@
 1 CHAN
 2 DATE 28 AUG 2019
 3 TIME 23:51:28
+0 @I0076@ INDI
+1 NAME Gill /Greig/
+2 TYPE married
+2 GIVN Gill
+2 SURN Greig
+1 SEX F
+1 FAMS @F0021@
+1 OBJE
+2 FORM jpeg
+2 TITL gill-greig
+2 FILE /home/steve/Desktop/gramps/media/gill-greig.JPG
+1 CHAN
+2 DATE 30 AUG 2019
+3 TIME 22:26:20
+0 @I0077@ INDI
+1 NAME Samuel /Long/
+2 GIVN Samuel
+2 SURN Long
+1 SEX M
+1 FAMS @F0022@
+1 NOTE @N0019@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 19:10:26
+0 @I0078@ INDI
+1 NAME Diana /Greig/
+2 TYPE married
+2 GIVN Diana
+2 SURN Greig
+1 SEX F
+1 FAMS @F0023@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:53:22
+0 @I0079@ INDI
+1 NAME Heather /Greig/
+2 TYPE married
+2 GIVN Heather
+2 SURN Greig
+1 SEX F
+1 FAMC @F0023@
+1 FAMS @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0080@ INDI
+1 NAME Rodney /Berger/
+2 GIVN Rodney
+2 SURN Berger
+1 SEX M
+1 FAMS @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0081@ INDI
+1 NAME  /Berger/
+2 SURN Berger
+1 SEX M
+1 FAMC @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0082@ INDI
+1 NAME  /Berger/
+2 SURN Berger
+1 SEX F
+1 FAMC @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0083@ INDI
+1 NAME  /Berger/
+2 SURN Berger
+1 SEX F
+1 FAMC @F0024@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @I0084@ INDI
+1 NAME Elsie /Greig/
+2 TYPE married
+2 GIVN Elsie
+2 SURN Greig
+1 SEX F
+1 FAMS @F0025@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:57:50
+0 @I0085@ INDI
+1 NAME Ian /Greig/
+2 GIVN Ian
+2 SURN Greig
+1 SEX M
+1 FAMC @F0025@
+1 NOTE @N0021@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:57:50
+0 @I0086@ INDI
+1 NAME Betty /Hudson/
+2 TYPE married
+2 GIVN Betty
+2 SURN Hudson
+1 SEX F
+1 FAMC @F0028@
+1 FAMS @F0026@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @I0087@ INDI
+1 NAME Vanessa Hamilton /Craggs/
+2 TYPE married
+2 GIVN Vanessa Hamilton
+2 SURN Craggs
+1 SEX F
+1 FAMC @F0026@
+1 FAMS @F0027@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:06
+0 @I0088@ INDI
+1 NAME Christopher /Craggs/
+2 GIVN Christopher
+2 SURN Craggs
+1 SEX M
+1 FAMS @F0027@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:06
+0 @I0089@ INDI
+1 NAME Giles /Craggs/
+2 GIVN Giles
+2 SURN Craggs
+1 SEX M
+1 FAMC @F0027@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:56
+0 @I0090@ INDI
+1 NAME  /Bisset/
+2 SURN Bisset
+1 SEX M
+1 FAMS @F0028@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @I0091@ INDI
+1 NAME  /Murray/
+2 SURN Murray
+1 SEX F
+1 FAMS @F0028@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @I0092@ INDI
+1 NAME George Frederick /Stutchbury/
+2 GIVN George Frederick
+2 SURN Stutchbury
+1 SEX M
+1 BIRT
+2 DATE 28 NOV 1844
+2 PLAC London, England
+1 DEAT
+2 DATE 19 AUG 1934
+2 PLAC Hampton Hill, Greater London
+2 SOUR @S0006@
+1 FAMC @F0030@
+1 FAMS @F0029@
+1 OBJE
+2 FORM jpeg
+2 TITL george-frederick-stutchbury
+2 FILE /home/steve/Desktop/gramps/media/george-frederick-stutchbury.jpg
+1 NOTE @N0024@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:29:34
+0 @I0093@ INDI
+1 NAME Olivia /Stutchbury/
+2 TYPE married
+2 GIVN Olivia
+2 SURN Stutchbury
+1 SEX F
+1 FAMS @F0029@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:21:32
+0 @I0094@ INDI
+1 NAME Henry Rome /Stutchbury/
+2 GIVN Henry Rome
+2 SURN Stutchbury
+1 SEX M
+1 DSCR Naturalist
+2 SOUR @S0005@
+1 FAMC @F0031@
+1 FAMS @F0030@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:35:09
+0 @I0095@ INDI
+1 NAME Mary /Stutchbury/
+2 TYPE married
+2 GIVN Mary
+2 SURN Stutchbury
+1 SEX F
+1 FAMS @F0030@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:27:05
+0 @I0096@ INDI
+1 NAME Joseph /Stutchbury/
+2 GIVN Joseph
+2 SURN Stutchbury
+1 SEX M
+1 FAMS @F0031@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:33:30
+0 @I0097@ INDI
+1 NAME Hanna /Stutchbury/
+2 TYPE married
+2 GIVN Hanna
+2 SURN Stutchbury
+1 SEX F
+1 FAMS @F0031@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:33:30
 0 @F0000@ FAM
 1 HUSB @I0001@
 1 WIFE @I0002@
@@ -1043,15 +1278,6 @@
 1 CHAN
 2 DATE 28 AUG 2019
 3 TIME 15:17:16
-0 @F0014@ FAM
-1 HUSB @I0056@
-1 WIFE @I0064@
-1 CHIL @I0038@
-1 CHIL @I0058@
-1 CHIL @I0059@
-1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:33:28
 0 @F0015@ FAM
 1 HUSB @I0058@
 1 WIFE @I0060@
@@ -1063,10 +1289,9 @@
 3 TIME 15:28:54
 0 @F0016@ FAM
 1 WIFE @I0057@
-1 CHIL @I0056@
 1 CHAN
-2 DATE 28 AUG 2019
-3 TIME 15:34:20
+2 DATE 1 SEP 2019
+3 TIME 00:27:33
 0 @F0017@ FAM
 1 HUSB @I0068@
 1 WIFE @I0069@
@@ -1091,6 +1316,84 @@
 1 CHAN
 2 DATE 28 AUG 2019
 3 TIME 23:51:28
+0 @F0021@ FAM
+1 HUSB @I0005@
+1 WIFE @I0076@
+1 CHAN
+2 DATE 30 AUG 2019
+3 TIME 22:26:20
+0 @F0022@ FAM
+1 HUSB @I0077@
+1 CHIL @I0065@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 18:50:51
+0 @F0023@ FAM
+1 HUSB @I0035@
+1 WIFE @I0078@
+1 CHIL @I0079@
+1 NOTE @N0020@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:53:22
+0 @F0024@ FAM
+1 HUSB @I0080@
+1 WIFE @I0079@
+1 CHIL @I0081@
+1 CHIL @I0082@
+1 CHIL @I0083@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:55:53
+0 @F0025@ FAM
+1 HUSB @I0033@
+1 WIFE @I0084@
+1 CHIL @I0085@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 21:57:50
+0 @F0026@ FAM
+1 HUSB @I0050@
+1 WIFE @I0086@
+1 CHIL @I0087@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:17:17
+0 @F0027@ FAM
+1 HUSB @I0088@
+1 WIFE @I0087@
+1 CHIL @I0089@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:18:56
+0 @F0028@ FAM
+1 HUSB @I0090@
+1 WIFE @I0091@
+1 CHIL @I0086@
+1 CHAN
+2 DATE 31 AUG 2019
+3 TIME 22:21:06
+0 @F0029@ FAM
+1 HUSB @I0092@
+1 WIFE @I0093@
+1 CHIL @I0038@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:21:32
+0 @F0030@ FAM
+1 HUSB @I0094@
+1 WIFE @I0095@
+1 CHIL @I0092@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:27:05
+0 @F0031@ FAM
+1 HUSB @I0096@
+1 WIFE @I0097@
+1 CHIL @I0094@
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:33:30
 0 @S0000@ SOUR
 1 TITL Interview with Stephen Richard Greig
 1 AUTH Stephen Richard Greig
@@ -1126,6 +1429,11 @@
 1 CHAN
 2 DATE 28 AUG 2019
 3 TIME 23:45:57
+0 @S0006@ SOUR
+1 TITL https://www.geni.com/people/George-Stutchbury/6000000029076838021
+1 CHAN
+2 DATE 1 SEP 2019
+3 TIME 00:18:54
 0 @N0000@ NOTE Known as Gumpty by Susan Greig
 0 @N0001@ NOTE Came from Billingford, Norfolk
 0 @N0002@ NOTE Eldest Son
@@ -1152,4 +1460,23 @@
 1 CONC oli during WW1
 0 @N0017@ NOTE Philip (smiling) and Phillida
 0 @N0018@ NOTE 1st Royal North Devon Hussars. Action: Gallipoli
+0 @N0019@ NOTE Wrote a letter to his daughter, Helen Gertrude Baker (Nellie) for h
+1 CONC er birthday (Aug 23rd?) with address Gloucester
+0 @N0020@ NOTE Wedding at the Dorchester. Philip Greig was a page boy and Phillid
+1 CONC a Greig bride's maid.
+0 @N0021@ NOTE Had about 8 children. Lived mainly in Australia
+0 @N0022@ NOTE Was in French internment camp in WW2 at Laghouat (1942 and possibl
+1 CONC y before and after). There is a photo of him there with Lt Comm. hare.
+1 CONT 
+1 CONT After the war he died young of cancer and suffered great pain. Philip Gr
+1 CONC eig (as a boy) had to help restrain him in his fits of agony. His docto
+1 CONC r was Dr Boyle who was having an affair with Joan Margaret Stutchbury.
+0 @N0023@ NOTE Came back to England from India at the start of WW2 but told to ret
+1 CONC urn to help the war effort there. On the way back his ship was attacke
+1 CONC d and he died. His daughter with his wife Diana was called Heather. Dian
+1 CONC a brought Heather up with Charles Greig (Dick's brother) who lived wit
+1 CONC h Heather after his brother, Dick's, death.
+0 @N0024@ NOTE Chief Accountant at the Bank of England
+0 @N0025@ NOTE Naturalist according to https://www.geni.com/people/George-Stutchbu
+1 CONC ry/6000000029076838021
 0 TRLR
